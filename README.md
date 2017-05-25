@@ -3,6 +3,7 @@ v 1.5
 avoidz 下载地址           https://github.com/M4sc3r4n0/avoidz
 
 ps1encode 下载地址   https://github.com/CroweCybersecurity/ps1encode
+Metasploit系列课程第七课 http://www.ggsec.cn/msf7.html
 
 1.msf——web_delivery 模块调用。
 2.使用msfvenmon_PAYLOAD 进行文件注入msf——Payload，
